@@ -79,7 +79,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "----",
+            "phoneNumber": "+352877166555",
             "phoneAltText": "Call us",
             "email": "it@mystx.io",
             "emailAltText": "Email us",
