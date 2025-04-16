@@ -69,7 +69,7 @@
                 "type": "Link",
                 "label": "Info",
                 "altText": "Info",
-                "url": "/",
+                "url": "/us",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
